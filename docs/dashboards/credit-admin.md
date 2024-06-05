@@ -28,15 +28,15 @@ The Dashboard is the home page and it’s the first thing you’ll see when you 
 ## Customer Overview
 
 \
-<mark style="color:green;">**Active Customers:**</mark> The Active Customers metric represents the total number of customers currently engaged with active loans.
+**Active Customers:** The Active Customers metric represents the total number of customers currently engaged with active loans.
 
-<mark style="color:red;">**Inactive Customers:**</mark> Inactive Customers refers to the total count of customers who do not currently hold active loans within the institution.
+**Inactive Customers:** Inactive Customers refers to the total count of customers who do not currently hold active loans within the institution.
 
-<mark style="color:blue;">**Recruitments:**</mark> Recruitments signify the total number of customers newly onboarded by the institution.
+**Recruitments:** Recruitments signify the total number of customers newly onboarded by the institution.
 
-_**Leads Conversion this Month**<mark style="color:green;">**:**</mark>_ This metric tracks the number of leads that have been successfully converted into active customers since the beginning of the month, providing insight into monthly conversion rates.
+**Leads Conversion this Month:** This metric tracks the number of leads that have been successfully converted into active customers since the beginning of the month, providing insight into monthly conversion rates.
 
-<mark style="color:green;">**Leads Conversion this Year:**</mark> The Leads Conversion this Year metric records the cumulative number of lead customers successfully converted into active customers since the beginning of the year, offering a comprehensive view of yearly conversion trends.
+**Leads Conversion this Year:** The Leads Conversion this Year metric records the cumulative number of lead customers successfully converted into active customers since the beginning of the year, offering a comprehensive view of yearly conversion trends.
 
 <figure><img src="../.gitbook/assets/Customer Overview.png" alt=""><figcaption></figcaption></figure>
 
