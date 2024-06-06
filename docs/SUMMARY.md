@@ -18,6 +18,5 @@
   * [Compose](sms/compose.md)
 * [Call Centre](call-centre/README.md)
   * [Customer Follow-up](call-centre/customer-follow-up.md)
-  * [PTP Cases](call-centre/ptp-cases.md)
   * [Calls](call-centre/calls.md)
 * [Reports](reports.md)
