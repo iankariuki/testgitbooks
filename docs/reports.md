@@ -5,3 +5,5 @@ Reports are essential tools that provide comprehensive insights and data analysi
 1. Navigate to the Reports module.
 2. Select the reports assigned to your user account to view in the actions column.
 3. Enter your username and password to access and view the report.
+
+<figure><img src=".gitbook/assets/reports first view.2.png" alt=""><figcaption></figcaption></figure>
