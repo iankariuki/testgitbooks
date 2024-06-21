@@ -19,6 +19,7 @@
 * [Loaning](loaning/README.md)
   * [Loans](loaning/loans.md)
   * [Loan Approvals](loaning/loan-approvals.md)
+  * [Loan Disbursements](loaning/loan-disbursements.md)
 * [SMS](sms/README.md)
   * [Templates](sms/templates.md)
   * [Schedule](sms/schedule.md)

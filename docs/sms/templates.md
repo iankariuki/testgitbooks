@@ -14,6 +14,3 @@ SMS templates are pre-defined messages designed for common and reusable communic
 <figure><img src="../.gitbook/assets/templete field.png" alt=""><figcaption></figcaption></figure>
 
 6. After configuring the template to your requirements, click on the "Save" button to store the newly created message template in the system.
-
-### Navigation Bar
-
