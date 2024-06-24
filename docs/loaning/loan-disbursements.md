@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-Loan disburser cannot be the same person who originated and approved the loan
+Loan disburser cannot be the same person who originated or approved the loan
 {% endhint %}
 
 The loan disbursement process ensures that approved loans are correctly disbursed to customers in a timely and efficient manner.
