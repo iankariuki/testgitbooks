@@ -100,3 +100,9 @@ b) Number of Customers in Arrears: The count of customers who have missed paymen
    * Signifies the status of customers awaiting approval for the maximum credit limit that can be extended to them, reflecting risk management and credit evaluation procedures.
 4. **Lock Approvals:**
    * Represents the status of customers awaiting approval for account locking or security-related actions, safeguarding against unauthorized access and ensuring data protection.
+
+
+
+{% embed url="https://www.loom.com/share/9cdf1edd52a14b64a52d73084327d1b9?sid=a0d571d1-47a5-4a12-a653-41d6dc1ea6c6" %}
+A link to our video resources on our credit admin dashboard.
+{% endembed %}
