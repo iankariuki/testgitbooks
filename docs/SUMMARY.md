@@ -6,6 +6,8 @@
   * [Call Center](dashboards/call-center.md)
   * [SMS](dashboards/sms.md)
   * [Voice](dashboards/voice.md)
+* [Administration](administration/README.md)
+  * [Users](administration/users.md)
 * [Registry](registry/README.md)
   * [Customer Overview](registry/customer-overview.md)
   * [Customer Creation](registry/customer-creation.md)
