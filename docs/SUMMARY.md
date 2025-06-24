@@ -8,6 +8,7 @@
   * [Voice](dashboards/voice.md)
 * [Administration](administration/README.md)
   * [Users](administration/users.md)
+  * [User Groups](administration/user-groups.md)
 * [Registry](registry/README.md)
   * [Customer Overview](registry/customer-overview.md)
   * [Customer Creation](registry/customer-creation.md)
