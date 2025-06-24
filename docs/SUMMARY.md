@@ -10,6 +10,7 @@
   * [Users](administration/users.md)
   * [User Groups](administration/user-groups.md)
   * [Workflow Statuses](administration/workflow-statuses.md)
+  * [Workflow Settings](administration/workflow-settings.md)
 * [Registry](registry/README.md)
   * [Customer Overview](registry/customer-overview.md)
   * [Customer Creation](registry/customer-creation.md)
