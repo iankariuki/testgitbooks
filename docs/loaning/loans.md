@@ -4,7 +4,7 @@ The Loaning module facilitates the creation, management, and approval of loans f
 
 ## Creating a Loan
 
-<figure><img src="../.gitbook/assets/loan product 1st veiw (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/loanntts.png" alt=""><figcaption></figcaption></figure>
 
 1. Navigate to the **Loaning** module
 2. Under loaning go to **loans**

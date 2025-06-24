@@ -20,6 +20,7 @@
   * [Loans](loaning/loans.md)
   * [Loan Approvals](loaning/loan-approvals.md)
   * [Loan Disbursements](loaning/loan-disbursements.md)
+  * [Loan Purpose](loaning/loan-purpose.md)
   * [Credit Assesment](loaning/credit-assesment.md)
 * [SMS](sms/README.md)
   * [Templates](sms/templates.md)
